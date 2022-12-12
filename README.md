@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pseacrest a founder and developer
+- 👋 Hi, I’m @pseacrest a founder and builder of things
 - 👀 I’m interested in building companies that enhance consumers awarness of the climate through data driven projects
 - 🌱 Founder of Kapivar
